@@ -1,0 +1,4 @@
+Link: https://youtu.be/3TKgRmiyoQo
+
+Como windows no permite acceder a la interfaz de red en la que se comunican los contenedores docker se ocupa tcpdump para capturar el tráfico entre el cliente y el servidor
+Luego, se vuelve a conectar al servidor a la ip localhost, de este modo se ocupa wireshark para obtener el tráfico y que este se pueda visulizar de mejor manera
